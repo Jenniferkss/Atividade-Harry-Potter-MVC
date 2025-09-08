@@ -1,0 +1,22 @@
+{
+  "name": "atividade-harry-potter-mvc",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "dev": "cls && nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenniferkss/Atividade-Harry-Potter-MVC.git"
+  },
+  "keywords": ["Node","Harry Potter"],
+  "author": "Jennifer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jenniferkss/Atividade-Harry-Potter-MVC/issues"
+  },
+  "homepage": "https://github.com/Jenniferkss/Atividade-Harry-Potter-MVC#readme",
+  "description": "Atividade no mundo de Harry Potter usando MVC"
+}
